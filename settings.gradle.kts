@@ -29,3 +29,9 @@ dependencyResolutionManagement {
 }
 
 include(":composeApp")
+include(":common")
+include(":common:logger")
+include(":common:mvi")
+include(":common:mvi:mvi-general")
+include(":common:utils")
+include(":common:mvi:mvi-koin-voyager")
